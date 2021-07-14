@@ -1,0 +1,14 @@
+{
+  "name": "box-node-automations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "box-node-sdk": "^1.37.2",
+    "exceljs": "^4.2.1",
+    "moment": "^2.29.1"
+  }
+}
