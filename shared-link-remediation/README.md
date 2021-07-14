@@ -9,11 +9,11 @@ A Node.js script that parses the Shared Link report generated in the Box Admin C
     * Change to the /client directory and run `yarn install` or `npm install`
 4. Adjust the following variables as needed:
     * [SHARED_LINK_REPORT_FILE_ID]()
-    * [TEST_MODE]()
-    * [REMOVE_SHARED_LINK]()
-    * [SHARED_LINK_UPDATE_STRATEGY]()
-    * [SHARED_LINK_NEW_EXP_DATE_DURATION_IN_DAYS]()
-    * [SHARED_LINK_THRESHOLD_IN_DAYS]()
+    * [TEST_MODE](https://github.com/kylefernandadams/box-node-automations/blob/main/shared-link-remediation/index.js#L11)
+    * [REMOVE_SHARED_LINK](https://github.com/kylefernandadams/box-node-automations/blob/main/shared-link-remediation/index.js#L27)
+    * [SHARED_LINK_UPDATE_STRATEGY](https://github.com/kylefernandadams/box-node-automations/blob/main/shared-link-remediation/index.js#L18)
+    * [SHARED_LINK_NEW_EXP_DATE_DURATION_IN_DAYS](https://github.com/kylefernandadams/box-node-automations/blob/main/shared-link-remediation/index.js#L21)
+    * [SHARED_LINK_THRESHOLD_IN_DAYS](https://github.com/kylefernandadams/box-node-automations/blob/main/shared-link-remediation/index.js#L24)
 5. Run the NPM start script: `yarn start` or `npm start`
 
 
